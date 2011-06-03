@@ -1,0 +1,1 @@
+Current IP Address: <?php echo $ip ?>
